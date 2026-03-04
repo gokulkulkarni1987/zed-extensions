@@ -1027,6 +1027,9 @@ version = "0.0.2"
 [dark-purple-theme]
 submodule = "extensions/dark-purple-theme"
 version = "0.1.0"
+[dark-pro-neon]
+submodule = "extensions/dark-pro-neon"
+version = "0.0.1"
 
 [darker-horizon]
 submodule = "extensions/darker-horizon"

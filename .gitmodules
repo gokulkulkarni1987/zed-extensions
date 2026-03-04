@@ -1009,6 +1009,9 @@
 [submodule "extensions/dark-purple-theme"]
 	path = extensions/dark-purple-theme
 	url = https://github.com/brgr/dark-purple-theme-for-zed.git
+[submodule "extensions/dark-pro-neon-theme"]
+	path = extensions/dark-pro-neon-theme
+	url = https://github.com/gokulkulkarni1987/zed-dark-pro-neon-theme.git
 
 [submodule "extensions/darker-horizon"]
 	path = extensions/darker-horizon
